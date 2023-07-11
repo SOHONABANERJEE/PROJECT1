@@ -1,0 +1,13 @@
+body {
+  margin: 20px;
+}
+#head{
+  background-image:https://www.eyeem.com/p/148731972;
+  width:100%;
+  margin-color:yellow;
+  margin-width:2px;
+  border-radius:10px;
+  position:sticky;
+  top:1px;
+  }
+  
